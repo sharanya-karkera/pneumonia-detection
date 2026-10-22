@@ -27,11 +27,6 @@ The dataset is not included in this repo. The notebook downloads it with the Kag
 8. Predict a new X-ray (single model, ensemble, adjustable threshold)
 9. Save and load the final model
 
-## Results
-![Confusion Matrix](confusion_matrix.png)
-![Accuracy and Loss](training_graph.png)
-![Prediction](prediction.png)
-
 
 ## Notes
 During fine-tuning, validation loss increased while training loss decreased (overfitting).
