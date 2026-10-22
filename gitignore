@@ -1,0 +1,5 @@
+kaggle.json
+chest-xray-pneumonia.zip
+chest_xray/
+*.keras
+.ipynb_checkpoints/
